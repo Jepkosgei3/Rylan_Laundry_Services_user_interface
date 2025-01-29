@@ -8,6 +8,6 @@ export default defineConfig({
     port: 5173, // For local development
   },
   preview: {
-    port: 8081, // For production preview
+    port: 8080, // For production preview
   },
 });
