@@ -23,7 +23,7 @@
     "react-router-dom": "latest",
     "react-spinners": "latest",
     "sass": "latest",
-    "serve": "latest",
+    "serve": "latest"
     "vite": "latest"
   },
   "devDependencies": {
