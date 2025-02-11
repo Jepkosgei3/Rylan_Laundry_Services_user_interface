@@ -6,7 +6,7 @@
   "scripts": {
     "build": "vite build",
     "preview": "vite preview",
-    "start": "serve -s -l 8080 dist"
+    "start": "vite dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "latest",
@@ -24,6 +24,7 @@
     "react-spinners": "latest",
     "sass": "latest",
     "serve": "latest"
+    "vite": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
