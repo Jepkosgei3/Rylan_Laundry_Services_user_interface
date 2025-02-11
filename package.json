@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
-    "start": "vite dist"
+    "start": "serve -s dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "latest",
